@@ -1,4 +1,3 @@
----
 
 👋 Hello World! I'm Garima Kaur, a passionate MCA graduate with a love for all things Python and data-driven. 🐍💡
 
@@ -12,7 +11,6 @@
 
 🌱 Always learning, exploring, and open to exciting collaborations. Let's build something amazing together! 🌈
 
----
 Contact: 
 kaurgarima284@gmail.com
 7782819619
