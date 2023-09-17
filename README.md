@@ -1,16 +1,18 @@
-### Hi there 👋
+---
 
-<!--
-**Therarekaur/Therarekaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello World! I'm Garima Kaur, a passionate MCA graduate with a love for all things Python and data-driven. 🐍💡
 
-Here are some ideas to get you started:
+🚀 Aspiring Python Developer | Data Enthusiast | Machine Learning | Deep Learning | Image Processing 📊🤖🖼️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Eager to leverage my skills in Python, C++, SQL, and more to create innovative solutions and dive deep into the world of data. 🌌
+
+💡 I've got my hands dirty with projects like predicting diseases in cows 🐄 and crafting intelligent apps for medical diagnosis. Let's turn data into insights! 📈
+
+🛠️ Tech Stack: Python, C++, SQL, R, HTML, CSS | Frameworks: Flask, Dash | Tools: Pycharm, Jupyter Notebook, and more.
+
+🌱 Always learning, exploring, and open to exciting collaborations. Let's build something amazing together! 🌈
+
+---
+Contact: 
+kaurgarima284@gmail.com
+7782819619
